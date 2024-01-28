@@ -1,0 +1,36 @@
+nar{
+    background-color: rgb(253, 223, 186);
+}
+header{
+    font-family:cursive;
+}
+main{
+    color: aliceblue;
+    font-size: x-large;
+    font-family:cursive;
+    background-color: rgb(21, 135, 25);
+    line-height:2cqmax;
+    
+
+}
+h1{
+    font-size: larger;
+    font-family:cursive;
+    animation: forwards;
+}
+p{
+    font-size: x-large;
+    font-family:cursive;
+    line-height:2cqmax;
+}
+footer{
+    background-color: coral;
+}
+li{
+    display: inline;
+    width:max-content ;
+}
+body{
+   background-image:url(windowbackground.jpg);
+    background-size: cover; 
+}
